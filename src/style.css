@@ -30,6 +30,8 @@ a {
 /* style */
 body {
   background-color: #eee;
+  background: url("./images/unnamed.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 .globalHeader {
   margin: 20px;

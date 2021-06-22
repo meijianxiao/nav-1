@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build":"rm -rf dist && parcel build src/index.html --no-optimize --public-url ./"
+  },
+  "devDependencies": {
+    "cssnano":"^5.0.6"
+  },
+  "name": "nav-1",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:meijianxiao/nav-1.git",
+  "author": "meijianxiao <1003409251@qq.com>",
+  "license": "MIT"
+}

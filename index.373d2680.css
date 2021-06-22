@@ -30,6 +30,8 @@ a {
 /* style */
 body {
   background-color: #eee;
+  background: url("unnamed.f7c66be8.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 .globalHeader {
   margin: 20px;
@@ -74,7 +76,6 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
-
 .siteList {
   margin: 20px;
   display: flex;
@@ -94,7 +95,6 @@ body {
 .siteList > li {
   margin-bottom: 10px;
 }
-
 .siteList .site {
   width: 160px;
   display: flex;
@@ -117,12 +117,10 @@ body {
   align-items: center;
   font-size: 64px;
 }
-
 .siteList .site > .link {
   font-size: 14px;
   margin-top: 4px;
 }
-
 .siteList .site > .close {
   position: absolute;
   top: 5px;
@@ -142,17 +140,14 @@ body {
   padding: 20px 0;
   background-color: white;
 }
-
 .siteList .addButton .icon {
   width: 64px;
   height: 64px;
 }
-
 .siteList .addButton .text {
   font-size: 14px;
   margin-top: 4px;
 }
-
 .siteList .addButton .iconWrapper {
   width: 64px;
   height: 64px;
@@ -161,4 +156,4 @@ body {
   align-items: center;
 }
 
-/*# sourceMappingURL=index.b220c73f.css.map */
+/*# sourceMappingURL=index.373d2680.css.map */
