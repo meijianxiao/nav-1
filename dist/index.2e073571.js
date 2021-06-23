@@ -17,7 +17,7 @@ $16b5ad875ae907e2f7f79e7b8fe116cc$var$xObject === null ? hashMap = [
         url: 'https://www.iconfont.cn/'
     },
     {
-        logo: "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png.>",
+        logo: "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png'>",
         url: 'https://github.com/'
     }
 ] : $16b5ad875ae907e2f7f79e7b8fe116cc$var$xObject.length < 4 ? hashMap = [
